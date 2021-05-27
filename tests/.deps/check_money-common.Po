@@ -1,0 +1,5 @@
+check_money-common.o: common.c /usr/include/stdc-predef.h ../src/money.h
+
+/usr/include/stdc-predef.h:
+
+../src/money.h:
